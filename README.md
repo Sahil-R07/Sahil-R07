@@ -10,7 +10,7 @@
 ### Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/sahil-rane-75a826286/) 
 ### Languages and Tools
-- Python
+- #3776AB
 - AWS
 - Docker
 - Java
