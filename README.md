@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi  I'm Sahil Rane
 
-<!--
-**Sahil-R07/Sahil-R07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 Currently Working On
+- Networking
+- CyberSecurity
+- Web Development
 
-Here are some ideas to get you started:
+- [Email](mailto:githubspam07@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/sahil-rane-75a826286/) 
+### Languages and Tools
+- Python
+- AWS
+- Docker
+- Java
+- Packet Tracer
+- HTML
+- CSS
+- Javascript
+- SQL
