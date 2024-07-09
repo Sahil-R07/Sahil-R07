@@ -11,4 +11,4 @@
 - [LinkedIn](https://www.linkedin.com/in/sahil-rane-75a826286/)
 
 ### Languages and Tools
- [![My Skills](https://skillicons.dev/icons?i=python)]
+ ![My Skills](https://skillicons.dev/icons?i=python)
